@@ -1,0 +1,16 @@
+
+# Compiled Java files
+*.class
+
+# Local application data
+*.dat
+activity_log.txt
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
